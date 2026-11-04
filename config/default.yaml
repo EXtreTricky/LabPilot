@@ -1,0 +1,4 @@
+app_name: LabPilot
+port: 8000
+db_path: data/lab.db
+ai_mode: explainable_rules_demo_only
